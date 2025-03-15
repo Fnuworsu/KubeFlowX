@@ -2,7 +2,7 @@
 
 A modern, user-friendly web application for managing Kubernetes deployments and microservices. Built with Spring Boot and featuring a beautiful, responsive UI.
 
-![Kubernetes Orchestration Tool](docs/images/demo.png)
+![Kubernetes Orchestration Tool]
 
 ## 🌟 Features
 
