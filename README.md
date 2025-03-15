@@ -3,9 +3,9 @@
 A modern, user-friendly web application for managing Kubernetes deployments and microservices. Built with Spring Boot and featuring a beautiful, responsive UI.
 
 
-## 🌟 Features
+##Features
 
-- **Modern Web Interface**
+- **Web Interface**
   - Clean, responsive design built with Tailwind CSS
   - Real-time deployment status updates
   - Interactive deployment management
@@ -23,7 +23,7 @@ A modern, user-friendly web application for managing Kubernetes deployments and 
   - Manage replica counts
   - Monitor resource usage
 
-## 🚀 Getting Started
+##Getting Started
 
 ### Prerequisites
 
@@ -77,7 +77,7 @@ kubernetes.namespace=default
 logging.level.com.microservices.orchestration=INFO
 ```
 
-## 📚 API Endpoints
+##API Endpoints
 
 ### Deployments
 
@@ -137,7 +137,7 @@ logging.level.com.microservices.orchestration=INFO
 }
 ```
 
-## 🛠️ Development
+##Development
 
 ### Project Structure
 
