@@ -3,7 +3,7 @@
 A modern, user-friendly web application for managing Kubernetes deployments and microservices. Built with Spring Boot and featuring a beautiful, responsive UI.
 
 
-##Features
+## Features
 
 - **Web Interface**
   - Clean, responsive design built with Tailwind CSS
@@ -23,7 +23,7 @@ A modern, user-friendly web application for managing Kubernetes deployments and 
   - Manage replica counts
   - Monitor resource usage
 
-##Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -54,7 +54,7 @@ java -jar target/microservices-orchestration-0.0.1-SNAPSHOT.jar
 
 The application will be available at `http://localhost:8080`
 
-## 🔧 Configuration
+## Configuration
 
 ### Kubernetes Configuration
 
@@ -77,7 +77,7 @@ kubernetes.namespace=default
 logging.level.com.microservices.orchestration=INFO
 ```
 
-##API Endpoints
+## API Endpoints
 
 ### Deployments
 
@@ -137,7 +137,7 @@ logging.level.com.microservices.orchestration=INFO
 }
 ```
 
-##Development
+## Development
 
 ### Project Structure
 
