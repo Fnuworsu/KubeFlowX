@@ -1,6 +1,6 @@
 # Kubernetes Microservices Orchestration Tool
 
-A user-friendly web application for managing Kubernetes deployments and microservices. Built with Spring Boot and Java's K8 cluster client.
+A web application for managing Kubernetes deployments and microservices. Built with Spring Boot and Java's K8 cluster client.
 
 
 ## Features
